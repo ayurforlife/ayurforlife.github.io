@@ -1,0 +1,115 @@
+body {
+    margin-top: 70px;
+    font-size: 1.77rem;
+    background-color: transparent;
+    background-image: url(../img/vintage-concrete.png);
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: Open Sans;
+  }
+  
+  p {
+    font-family: Open Sans;
+  }
+  
+  .navbar-default {
+    background-size: contain;
+    background: rgba(255, 255, 255, 0.8);
+    border: 0;
+    padding: 10px;
+    font-family: Open Sans;
+  }
+  .navbar-inner {
+    background: transparent;
+  }
+  .navbar-left {
+    border: 0;
+    margin: 0;
+    padding: 0px;
+  }
+  .btn-default {
+    opacity: 0.5;
+  }
+  /* .btn-submit {
+    opacity: 1;
+    -ms-grid-column-align: end;
+  } */
+  .glyphicon {
+    font-size: 2rem;
+  }
+  
+  #showcase h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  #showcase img {
+    width: 90%;
+    margin-top: 60px;
+  }
+  
+  #showcase .showcase-right {
+    margin-top: 60px;
+  }
+  
+  #testimonial {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  #testimonial p {
+    font-size: 32px;
+    font-family: 'Open Sans';
+    color: #000;
+  }
+  
+  #testimonial p.customer {
+    font-size: 20px;
+    color: #666;
+  }
+  
+  #info1 .info-left {
+    margin-top: 90px;
+    margin-left: 30px;
+  }
+  #info1 img {
+    width: 90%;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 30px 0 0;
+  }
+  
+  #info1 .info-right {
+    margin-top: 90px;
+  }
+  
+  #info2 {
+    margin: 20px 0 60px 0;
+  }
+  #products img {
+    padding: 5rem;
+  }
+  
+  #contact {
+    text-align: left;
+    padding: 40px 20px;
+    color: rgba(99, 94, 94, 0.9);
+    border-top: #333 4px solid;
+    border-bottom: #333 4px solid;
+  }
+  
+  .contact-right {
+    color: rebeccapurple;
+  }
+  footer {
+    font-family: 'Gabriela', serif;
+    padding: 10px;
+  }
+  
